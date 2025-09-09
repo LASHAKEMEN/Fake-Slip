@@ -108,7 +108,7 @@
            
         
           .hero-image {
-          background-image: url("img/scb-demo.png");
+          background-image: url("https://i.pinimg.com/564x/9a/ef/87/9aef8748c4a88912a1a11b18ff5aaf0a.jpg");
           background-color: #cccccc;
           height: 500px;
           width: 300px;
