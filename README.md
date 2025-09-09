@@ -108,17 +108,14 @@
            
         
           .hero-image {
-          .hero-image {
-  background-image: url("https://images.unsplash.com/photo-1601758124513-0e3b3a9a6f4b?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80");
-  background-color: #cccccc;
-  height: 500px;
-  width: 300px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
-
+          background-image: url("img/scb-demo.png");
+          background-color: #cccccc;
+          height: 500px;
+          width: 300px;
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+          position: relative;
         }
         .name .flax-container{
             display: flex;
